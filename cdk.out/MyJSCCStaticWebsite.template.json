@@ -208,7 +208,7 @@
       "Metadata": {
         "aws:cdk:path": "MyJSCCStaticWebsite/JSCCStaticWebsite/JSCC-Bucket-Distrubution/AwsCliLayer/Resource",
         "aws:asset:path": "asset.e9882ab123687399f934da0d45effe675ecc8ce13b40cb946f3e1d6141fe8d68.zip",
-        "aws:asset:original-path": "/Users/morgan_cooper/Documents/nodejs-aws-cdk-starter/node_modules/@aws-cdk/lambda-layer-awscli/lib/layer.zip",
+        "aws:asset:original-path": "/Users/morgan_cooper/Documents/cloudx-aws-practitioner-for-js/my-static-store-cloudfront/node_modules/@aws-cdk/lambda-layer-awscli/lib/layer.zip",
         "aws:asset:is-bundled": false,
         "aws:asset:property": "Content"
       }
@@ -477,7 +477,7 @@
       "Metadata": {
         "aws:cdk:path": "MyJSCCStaticWebsite/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C/Resource",
         "aws:asset:path": "asset.a3058ccb468d757ebb89df5363a1c20f5307c6911136f29d00e1a68c9b2aa7e8",
-        "aws:asset:original-path": "/Users/morgan_cooper/Documents/nodejs-aws-cdk-starter/node_modules/@aws-cdk/aws-s3-deployment/lib/lambda",
+        "aws:asset:original-path": "/Users/morgan_cooper/Documents/cloudx-aws-practitioner-for-js/my-static-store-cloudfront/node_modules/@aws-cdk/aws-s3-deployment/lib/lambda",
         "aws:asset:is-bundled": false,
         "aws:asset:property": "Code"
       }
